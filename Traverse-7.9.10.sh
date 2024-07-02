@@ -2,7 +2,7 @@
 
 # Script edited by Scott Sorrels on 2024-07-02
 
-echo "Alma Linux and Traverse setup"
+echo "Alma Linux and Traverse 7.9.10 setup"
 echo "Step 1: Creating and changing Directories to ~/Downloads/"
 cd ~/
 mkdir Downloads
