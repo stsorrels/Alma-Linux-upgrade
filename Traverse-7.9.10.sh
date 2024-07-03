@@ -47,7 +47,7 @@ echo " "
 echo " "
 
 echo "Step 4: Downloading Traverse-9.7.10"
-wget --no-check-certificate https://download.kaseya.com/components/traverse/v9.7.0.0/453/traverse-9.7.10-linux-alma.tar.gz
+wget --no-check-certificate https://download.kaseya.com/components/traverse/v9.7.0.0/486/traverse-9.7.10-linux-alma.tar.gz
 sha1sum traverse-9.7.10-linux-alma.tar.gz > traverse_download_sha1sum.log
 echo " "
 echo " "
